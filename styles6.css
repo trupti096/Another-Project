@@ -1,0 +1,16 @@
+h1{
+  color: #6166B3; 
+  font-size: 100px; 
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    /* position: relative; */
+    right: 30px;
+}
+
+#heading{
+    color:blue;
+}
